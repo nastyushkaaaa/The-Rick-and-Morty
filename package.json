@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@tanstack/react-query": "^5.36.0",
+    "@tanstack/react-query-devtools": "^5.36.0",
     "husky": "^9.0.11",
     "next": "14.2.3",
     "react": "^18",
